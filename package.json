@@ -1,0 +1,22 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "test files",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KapoorManvi/lotide.git"
+  },
+  "author": "Manvi K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KapoorManvi/lotide/issues"
+  },
+  "homepage": "https://github.com/KapoorManvi/lotide#readme"
+}
